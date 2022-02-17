@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "620deaa216abbb4ecbe07308"
+  },
+  "totalprice": 76000000,
+  "account": {
+    "accountid": "620dc41c667c6258de171105",
+    "username": "taufan",
+    "fullname": "Taufan Samudra Akbar",
+    "address": "Jakarta"
+  },
+  "products": [
+    {
+      "productid": 1,
+      "productname": "Iphone 13 Pro Max",
+      "productdesc": "Iphone 13 Pro Max 512 GB Garansi Ibox",
+      "qty": 10,
+      "price": 38000000,
+      "store": {
+        "storeid": 1,
+        "storename": "Taufan Gadget Store",
+        "storeowner": "Taufan Samudra",
+        "storeaddress": "Jakarta"
+      },
+      "category": {
+        "categoryid": 1,
+        "categoryname": "Electronic"
+      }
+    }
+  ],
+  "_class": "com.cart.svc.model.entity.Cart"
+}]
